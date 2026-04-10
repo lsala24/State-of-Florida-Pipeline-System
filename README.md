@@ -1,6 +1,6 @@
 # Florida Utility Pipeline & Community Resilience Analysis
 
-### [[🔗 View Live Interactive Map](YOUR_AGOL_LINK_HERE)](https://www.arcgis.com/home/item.html?id=4312d7f79e90415f9318ca482c4e0b79)
+### https://www.arcgis.com/apps/mapviewer/index.html?webmap=4312d7f79e90415f9318ca482c4e0b79
 
 ## Project Overview
 This web map provides a strategic spatial analysis of Florida’s interstate and intrastate pipeline network. By performing a live spatial intersect between linear utility assets and the FEMA Community Resilience Challenges Index (CRCI), the map identifies infrastructure segments situated within communities facing significant challenges.
