@@ -11,8 +11,7 @@ This web map provides a strategic spatial analysis of Florida’s interstate and
 * **Authoritative Integration:** Synthesized **EIA** pipeline data with **FEMA** CRCI datasets.
 
 ## Preview
-![Map Screenshot] <img width="924" height="562" alt="FL Pipeline System" src="https://github.com/user-attachments/assets/541d7ef1-2ddf-4d11-9bee-0187732f53c1" />
-
+<img width="1842" height="867" alt="Screenshot 2026-04-18 193941" src="https://github.com/user-attachments/assets/0247b543-b8fc-4b02-8169-3ffd7b7b98c5" />
 
 ## Data Sources
 * U.S. Energy Information Administration (EIA)
